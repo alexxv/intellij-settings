@@ -1,0 +1,11 @@
+<application>
+  <component name="ShowUsagesSettings">
+    <option name="PREVIEW_USAGES_SPLITTER_PROPORTIONS" value="0.3902622" />
+  </component>
+  <component name="UsageViewSettings">
+    <option name="GROUP_BY_SCOPE" value="true" />
+    <option name="GROUP_BY_USAGE_TYPE" value="false" />
+    <option name="IS_PREVIEW_USAGES" value="true" />
+    <option name="PREVIEW_USAGES_SPLITTER_PROPORTIONS" value="0.46085012" />
+  </component>
+</application>
