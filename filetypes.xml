@@ -3,9 +3,10 @@
     <extensionMap>
       <mapping pattern="table_mapping_file_that_exists" type="PLAIN_TEXT" />
       <mapping pattern="ds_bin_histogram" type="PLAIN_TEXT" />
-      <mapping pattern="ds_mob_isp" type="PLAIN_TEXT" />
-      <mapping pattern="ds_table" type="PLAIN_TEXT" />
       <mapping pattern="ds_ethnicity_last_name" type="PLAIN_TEXT" />
+      <mapping pattern="ds_table" type="PLAIN_TEXT" />
+      <mapping pattern="ds_mob_isp" type="PLAIN_TEXT" />
+      <mapping pattern="ds_reshipper_destination_countries" type="PLAIN_TEXT" />
       <mapping pattern="ds_ethnicity_first_name" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
