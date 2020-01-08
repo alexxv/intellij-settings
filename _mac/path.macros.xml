@@ -1,7 +1,7 @@
 <application>
   <component name="PathMacrosImpl">
     <macro name="CODE_DIR" value="~/dev/forter/forter/brain" />
-    <macro name="KOTLIN_BUNDLED" value="/Users/alex/Library/Application Support/IdeaIC2019.2/Kotlin/kotlinc" />
+    <macro name="KOTLIN_BUNDLED" value="/Applications/IntelliJ IDEA CE.app/Contents/plugins/Kotlin/kotlinc" />
     <macro name="MAVEN_REPOSITORY" value="/Users/alex/.m2/repository" />
     <macro name="NODEJS_PATH" value="/Users/alex/.nvm/v0.10.48/bin/node" />
   </component>
